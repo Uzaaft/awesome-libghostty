@@ -1,15 +1,26 @@
+# Awesome libghostty
+
 A curated list of awesome projects, tools, and resources built with or for libghostty.
 
 ## Contents
 
 - [Projects](#projects)
+- [Integrations](#integrations)
 - [Resources](#resources)
 
 ## Projects
 
+Open-source projects built with or on top of libghostty.
+
 - [Ghostty](https://github.com/ghostty-org/ghostty) - Reference implementation and home of libghostty.
 - [ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility.
 - [Mux](https://github.com/coder/mux) - Desktop and browser app for isolated, parallel agentic development.
+
+## Integrations
+
+Products and applications that embed libghostty.
+
+- [OrbStack](https://orbstack.dev/) - Fast, lightweight Docker & Linux on macOS, with a built-in Ghostty-powered terminal.
 
 ## Resources
 
