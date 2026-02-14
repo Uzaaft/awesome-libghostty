@@ -15,14 +15,14 @@ Open-source projects built with or on top of libghostty.
 - [Ghostty](https://github.com/ghostty-org/ghostty) - Reference implementation and home of libghostty.
 - [ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility.
 - [Mux](https://github.com/coder/mux) - Desktop and browser app for isolated, parallel agentic development.
-- [Ghostree](https://github.com/sidequery/ghostree) - A fork of Ghostree with native support for git worktree & ai agents.
+- [Ghostree](https://github.com/sidequery/ghostree) - A fork of Ghostty with native support for git worktree & AI agents.
 
 ## Integrations
 
 Products and applications that embed libghostty.
 
 - [OrbStack](https://orbstack.dev/) - Fast, lightweight Docker & Linux on macOS, with a built-in Ghostty-powered terminal.
-- [pynb](https://pynb.app/) - A jupyter-compatible Python notebook, native for macOS. Has an embedded Ghosty terminal.
+- [pynb](https://pynb.app/) - A native macOS Jupyter-compatible Python notebook app with an embedded Ghostty terminal.
 
 ## Resources
 
