@@ -12,11 +12,12 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 
 Open-source projects built with or on top of libghostty.
 
+- [cmux](https://github.com/manaflow-ai/cmux) - A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents.
+- [Ghostree](https://github.com/sidequery/ghostree) - A fork of Ghostty with native support for git worktree & AI agents.
 - [Ghostty](https://github.com/ghostty-org/ghostty) - Reference implementation and home of libghostty.
 - [ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility.
 - [Mux](https://github.com/coder/mux) - Desktop and browser app for isolated, parallel agentic development.
-- [Ghostree](https://github.com/sidequery/ghostree) - A fork of Ghostty with native support for git worktree & AI agents.
-- [cmux](https://github.com/manaflow-ai/cmux) - A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents.
+- [OmniWM](https://github.com/BarutSRB/OmniWM) - macOS tiling window manager inspired by Niri and Hyprland, with a Ghostty-powered quake terminal.
 - [Restty](https://github.com/wiedymi/restty) - A lightweight web terminal library powered by libghostty-vt, WebGPU, and text-shaper, with xterm.js API compatibility.
 - [Spectty](https://github.com/ocnc/spectty) - A fast native SSH & Mosh terminal for iOS.
 - [Supacode](https://github.com/supabitapp/supacode) - An open-source native macOS command center for running coding agents in parallel, powered by libghostty.
