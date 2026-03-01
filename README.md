@@ -35,6 +35,7 @@ Closed-source products and applications that embed libghostty.
 - [OrbStack](https://orbstack.dev/) - Fast, lightweight Docker & Linux on macOS, with a built-in Ghostty-powered terminal.
 - [pynb](https://pynb.app/) - A native macOS Jupyter-compatible Python notebook app with an embedded Ghostty terminal.
 - [RootShell](https://github.com/jc00ke/awesome-libghostty/) - The terminal, reimagined for Apple platforms.
+- [YEN](https://yen.chat) - Terminal-first IDE with native speech-to-text, stylish themes, and custom notifications.
 
 ## Resources
 
