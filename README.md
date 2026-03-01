@@ -24,6 +24,7 @@ Open-source projects built with or on top of libghostty.
 - [Supacode](https://github.com/supabitapp/supacode) - An open-source native macOS command center for running coding agents in parallel, powered by libghostty.
 - [Trolley](https://github.com/weedonandscott/trolley) - A terminal emulator runtime for distributing cross-platform TUI applications to end users, powered by libghostty.
 - [VVTerm](https://github.com/vivy-company/vvterm) - A Ghostty-powered SSH client for iOS, iPad, and macOS with iCloud sync and voice-to-command.
+- [webterm](https://github.com/rcarmo/webterm) - A web terminal server with a dashboard mode and live terminal tiles, using ghostty-web for WebAssembly-based rendering.
 - [Zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes, using libghostty-vt for terminal state restore.
 
 ## Closed Source
