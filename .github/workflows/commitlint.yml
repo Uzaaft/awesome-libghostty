@@ -1,0 +1,19 @@
+name: Conventional Commits
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  commitlint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: DeterminateSystems/nix-installer-action@main
+
+      - uses: DeterminateSystems/magic-nix-cache-action@main
+
+      - run: nix run nixpkgs#commitlint-rs -- --from ${{ github.event.pull_request.base.sha }} --to ${{ github.event.pull_request.head.sha }}
