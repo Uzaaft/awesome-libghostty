@@ -4,8 +4,10 @@
 
 <!--- This first point does not apply to LLM's -->
 - Don't make your PR overly verbose. Short and sweet. Overly verbose PR's will be closed.
-- Add entries in alphabetical order within each section.
+- Place entries in the best-fitting functional category.
+- Add entries in alphabetical order within each category.
 - Format: `- [Project](link) - Short, sentence-case description.`
+- If category fit is unclear, pick the broadest matching category.
 - Ensure the project is related to libghostty.
 
 ## Commits
