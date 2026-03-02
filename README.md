@@ -40,6 +40,7 @@ Closed-source products and applications that embed libghostty.
 - [pynb](https://pynb.app/) - A native macOS Jupyter-compatible Python notebook app with an embedded Ghostty terminal.
 - [RootShell](https://github.com/jc00ke/awesome-libghostty/) - The terminal, reimagined for Apple platforms.
 - [YEN](https://yen.chat) - Terminal-first IDE with native speech-to-text, stylish themes, and custom notifications.
+- [Hot Notes](https://github.com/emadda/hot-notes) - macOS Notes fuzzy search
 
 ## Resources
 
