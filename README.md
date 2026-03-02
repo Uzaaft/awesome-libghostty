@@ -34,13 +34,13 @@ Closed-source products and applications that embed libghostty.
 
 - [Commander](https://commanderai.app/) - A native macOS AI workspace for coding agents with diff review, git workflow, and worktree management.
 - [Echo](https://replay.software/echo) - A fast, modern SSH and Mosh client for iOS and iPadOS powered by Ghostty.
+- [Hot Notes](https://github.com/emadda/hot-notes) - macOS Notes fuzzy search
 - [mdnb](https://mdnb.app) - A native macOS markdown editor with git sync + embedded Ghostty terminal.
 - [NeoShell](https://neoshell.app/) - A shell-first remote workspace on iPad.
 - [OrbStack](https://orbstack.dev/) - Fast, lightweight Docker & Linux on macOS, with a built-in Ghostty-powered terminal.
 - [pynb](https://pynb.app/) - A native macOS Jupyter-compatible Python notebook app with an embedded Ghostty terminal.
 - [RootShell](https://github.com/jc00ke/awesome-libghostty/) - The terminal, reimagined for Apple platforms.
 - [YEN](https://yen.chat) - Terminal-first IDE with native speech-to-text, stylish themes, and custom notifications.
-- [Hot Notes](https://github.com/emadda/hot-notes) - macOS Notes fuzzy search
 
 ## Resources
 
