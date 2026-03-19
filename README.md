@@ -28,6 +28,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [fantastty](https://github.com/blaine/fantastty) - A macOS terminal emulator built on Ghostty's libghostty with session workspaces, notes, and live tab previews
 - [Ghostree](https://github.com/sidequery/ghostree) - A fork of Ghostty with native support for git worktree & AI agents.
 - [Husk](https://github.com/dindin12138/Husk) - A lightweight, daemon-based Wayland terminal written in C++ and powered by libghostty.
+- [kytos](https://github.com/jwintz/kytos) - A macOS terminal emulator built on libghostty and KelyphosKit.
 - [RootShell](https://github.com/kitknox/rootshell) - The terminal, reimagined for Apple platforms.
 - [Spectty](https://github.com/ocnc/spectty) - A fast native SSH & Mosh terminal for iOS.
 - [VVTerm](https://github.com/vivy-company/vvterm) - A Ghostty-powered SSH client for iOS, iPad, and macOS with iCloud sync and voice-to-command.
