@@ -54,6 +54,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [agtmux-term](https://github.com/g960059/agtmux-term) - AI-agent-aware terminal emulator with libghostty and a SwiftUI sidebar.
 - [cmux](https://github.com/manaflow-ai/cmux) - A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents.
 - [Commander](https://commanderai.app/) - A native macOS AI workspace for coding agents with diff review, git workflow, and worktree management.
+- [Factory Floor](https://factory-floor.com) - A native macOS workspace for parallel development with git worktrees, Claude Code agents, and embedded dev servers with automatic port detection.
 - [frep](https://github.com/emmettlu/frep) - An agentic terminal emulator built on libghostty.
 - [Mux](https://github.com/coder/mux) - Desktop and browser app for isolated, parallel agentic development.
 - [Supacode](https://github.com/supabitapp/supacode) - An open-source native macOS command center for running coding agents in parallel, powered by libghostty.
