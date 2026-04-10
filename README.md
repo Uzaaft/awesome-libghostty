@@ -61,6 +61,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Factory Floor](https://factory-floor.com) - A native macOS workspace for parallel development with git worktrees, Claude Code agents, and embedded dev servers with automatic port detection.
 - [frep](https://github.com/emmettlu/frep) - An agentic terminal emulator built on libghostty.
 - [Mux](https://github.com/coder/mux) - Desktop and browser app for isolated, parallel agentic development.
+- [Nexion](https://nexion.one) - macOS workspace with a libghostty-powered terminal, SSH, tmux, file browser, code editor, and web browser.
 - [Supacode](https://github.com/supabitapp/supacode) - An open-source native macOS command center for running coding agents in parallel, powered by libghostty.
 - [taskers](https://github.com/OneNoted/taskers) - An agent-first terminal workspace app with a Rust shell, flexible terminal backend, and Niri-like tiling model.
 - [termscope](https://github.com/mwunsch/termscope) - Headless terminal emulator CLI powered by libghostty-vt.
