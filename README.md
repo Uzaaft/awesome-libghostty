@@ -67,6 +67,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [termscope](https://github.com/mwunsch/termscope) - Headless terminal emulator CLI powered by libghostty-vt.
 - [tuidoscope](https://github.com/shuv1337/tuidoscope) - A terminal multiplexer for TUI apps with tab sidebar, fuzzy command palette, session persistence, and vim-style navigation, built with OpenTUI, SolidJS, and libghostty.
 - [YEN](https://yen.chat) - Terminal-first IDE with native speech-to-text, stylish themes, and custom notifications.
+- [Zentty](https://github.com/dedene/zentty) - A native macOS terminal for agentic development with vertical tabs, hyprland/niri-style worklanes, notifications, and an agent-aware sidebar.
 
 ## System Integrations & Utilities
 
