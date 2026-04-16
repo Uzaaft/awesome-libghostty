@@ -49,6 +49,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [mdnb](https://mdnb.app) - A native macOS markdown editor with git sync + embedded Ghostty terminal.
 - [obsidian-ghostty-terminal](https://github.com/lavs9/obsidian-ghostty-terminal) - True Ghostty terminal (libghostty-vt WASM) embedded in Obsidian with multi-split support and file-explorer context menu.
 - [pynb](https://pynb.app/) - A native macOS Jupyter-compatible Python notebook app with an embedded Ghostty terminal.
+- [RemoteTTYs](https://github.com/finch-xu/RemoteTTYs) - Remote terminal access to your home PC/Mac from a browser using ghostty-web, with a Go agent that requires no open ports or NAT traversal.
 - [vscode-bootty](https://github.com/0xBigBoss/vscode-bootty) - An alternative terminal extension for VS Code powered by libghostty-vt via WebAssembly.
 - [webterm](https://github.com/rcarmo/webterm) - A web terminal server with a dashboard mode and live terminal tiles, using ghostty-web for WebAssembly-based rendering.
 
