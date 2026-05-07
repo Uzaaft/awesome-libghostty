@@ -34,7 +34,6 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Ghostel](https://github.com/dakra/ghostel) - Terminal emulator for Emacs with true color, shell integration, OSC 8 hyperlinks, mouse tracking, Kitty keyboard protocol, and incremental rendering.
 - [Ghostree](https://github.com/sidequery/ghostree) - A fork of Ghostty with native support for git worktree & AI agents.
 - [Husk](https://github.com/dindin12138/Husk) - A lightweight, daemon-based Wayland terminal written in C++ and powered by libghostty.
-- [kytos](https://github.com/jwintz/kytos) - A macOS terminal emulator built on libghostty and KelyphosKit.
 - [macterm](https://github.com/thdxg/macterm) - A lightweight, native terminal for macOS built with SwiftUI and libghostty.
 - [Mori](https://github.com/vaayne/mori) - A native macOS workspace terminal organized around projects and worktrees, powered by tmux and libghostty.
 - [Muxy](https://github.com/muxy-app/muxy) - A macOS terminal multiplexer built with SwiftUI and libghostty.
