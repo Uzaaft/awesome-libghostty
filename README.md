@@ -18,6 +18,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Ghostty](https://github.com/ghostty-org/ghostty) - Reference implementation and home of libghostty.
 - [Ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on the libghostty C API in a single C file, using Raylib for rendering.
 - [ghostty-opentui](https://github.com/remorses/ghostty-opentui) - A fast ANSI/VT terminal parser powered by libghostty-vt, with JSON output, plain text stripping, and a TUI viewer built on OpenTUI.
+- [GhosttyKit](https://github.com/briannadoubt/GhosttyKit) - SwiftPM wrapper around Ghostty's macOS libghostty XCFramework.
 - [go-libghostty](https://github.com/mitchellh/go-libghostty) - Go bindings for libghostty-vt with cgo, static linking by default.
 - [libghostty-dart](https://github.com/elias8/libghostty) - Dart FFI bindings to libghostty-vt for building terminal emulators in Flutter.
 - [libghostty-rs](https://github.com/Uzaaft/libghostty-rs) - Rust FFI bindings and safe API for libghostty-vt, with a Rust port of Ghostling using macroquad.
