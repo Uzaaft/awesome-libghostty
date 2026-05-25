@@ -64,6 +64,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [mightty](https://github.com/frixaco/mightty) - Experimental Windows terminal powered by libghostty.
 - [Mori](https://github.com/vaayne/mori) - A native macOS workspace terminal organized around projects and worktrees, powered by tmux and libghostty.
 - [Muxy](https://github.com/muxy-app/muxy) - A macOS terminal multiplexer built with SwiftUI and libghostty.
+- [Nekotty2](https://github.com/kengonakajima/Nekotty2) - Nekotty version 2, based on libghostty-vt.
 - [OpenOwl](https://github.com/sanvibyfish/openowl-app) - A macOS native Git GUI and terminal desktop app built with Swift, libghostty, and Metal GPU rendering.
 - [phantty](https://github.com/arya-s/phantty) - Windows renderer for libghostty-vt.
 - [RootShell](https://github.com/kitknox/rootshell) - The terminal, reimagined for Apple platforms.
