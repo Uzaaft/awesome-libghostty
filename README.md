@@ -57,6 +57,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [ghosttyfx](https://github.com/vlaaad/ghosttyfx) - JavaFX terminal that uses libghostty.
 - [GhosttyWatch](https://github.com/dvladimirov/GhosttyWatch) - Ghostty terminal emulator port for Apple Watch Ultra 2 with voice dictation, Digital Crown navigation, and libghostty-vt rendering.
 - [gostty](https://github.com/rin2yh/gostty) - A terminal emulator built with Go, powered by libghostty and guigui (Ebitengine).
+- [hollow](https://github.com/sudo-tee/hollow) - Terminal emulator in Zig with a LuaJIT scripting layer and libghostty-vt for VT parsing and rendering.
 - [Husk](https://github.com/dindin12138/Husk) - A lightweight, daemon-based Wayland terminal written in C++ and powered by libghostty.
 - [macterm](https://github.com/thdxg/macterm) - A lightweight, native terminal for macOS built with SwiftUI and libghostty.
 - [Mori](https://github.com/vaayne/mori) - A native macOS workspace terminal organized around projects and worktrees, powered by tmux and libghostty.
