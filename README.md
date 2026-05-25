@@ -67,6 +67,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Nekotty2](https://github.com/kengonakajima/Nekotty2) - Nekotty version 2, based on libghostty-vt.
 - [OpenOwl](https://github.com/sanvibyfish/openowl-app) - A macOS native Git GUI and terminal desktop app built with Swift, libghostty, and Metal GPU rendering.
 - [phantty](https://github.com/arya-s/phantty) - Windows renderer for libghostty-vt.
+- [Quay](https://github.com/babul/quay) - A native macOS connection manager for SSH & SFTP, built on Ghostty's terminal core.
 - [RootShell](https://github.com/kitknox/rootshell) - The terminal, reimagined for Apple platforms.
 - [Spectty](https://github.com/ocnc/spectty) - A fast native SSH & Mosh terminal for iOS.
 - [Umbra](https://github.com/charliesbot/umbra) - A high-performance, GPU-accelerated Android terminal powered by libghostty.
