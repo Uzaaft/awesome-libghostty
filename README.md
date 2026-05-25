@@ -36,6 +36,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [shade](https://github.com/megalithic/shade) - A neovim-centric Swift library based on libghostty.
 - [sshotty-term](https://github.com/sshotty/sshotty-term) - Open-source Flutter terminal library built on Ghostty's VT engine, powering the Sshotty SSH client.
 - [Termini](https://github.com/arach/Termini) - A native terminal surface for SwiftUI apps with libghostty rendering, local PTY, and SSH transports for iOS and macOS.
+- [ts-libghostty](https://github.com/prime-radiant-inc/ts-libghostty) - TypeScript bindings for libghostty.
 - [Zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes, using libghostty-vt for terminal state restore.
 
 ## Terminal Apps & Clients
