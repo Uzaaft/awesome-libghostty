@@ -77,6 +77,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [VVTerm](https://github.com/vivy-company/vvterm) - A Ghostty-powered SSH client for iOS, iPad, and macOS with iCloud sync and voice-to-command.
 - [Watchtower](https://github.com/markhuot/watchtower) - A stacked terminal emulator with an integrated browser pane.
 
+- [ykmx](https://github.com/Yukaii/ykmx) - Yukai's take on a libghostty-based terminal multiplexer.
 ## Web & Embedded Terminals
 
 - [browstty](https://github.com/Snoupix/browstty) - A Zig WASM module that implements libghostty to emulate a terminal in the browser.
