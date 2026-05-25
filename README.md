@@ -136,6 +136,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Trolley](https://github.com/weedonandscott/trolley) - A terminal emulator runtime for distributing cross-platform TUI applications to end users, powered by libghostty.
 - [vanish](https://github.com/psyclyx/vanish) - A lightweight terminal session multiplexer built on libghostty-vt.
 
+- [vterm-mcp](https://github.com/mjpowersjr/vterm-mcp) - MCP server that drives and tests TUI applications via a libghostty-vt powered PTY.
 ## Resources
 
 - [libghostty API Reference](https://libghostty.tip.ghostty.org/index.html) - API reference documentation for libghostty.
