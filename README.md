@@ -132,6 +132,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [OrbStack](https://orbstack.dev/) - Fast, lightweight Docker & Linux on macOS, with a built-in Ghostty-powered terminal.
 - [reed](https://github.com/pastel-sketchbook/reed) - Terminal file viewer with syntax highlighting, inline images, and Mermaid diagrams, powered by libghostty-vt.
 - [Ribari](https://github.com/dalvlatko/ribari-releases) - A niri-inspired tiling web browser for macOS with libghostty integration.
+- [term2html](https://github.com/aarol/term2html) - A terminal output (ANSI) to HTML converter that respects your terminal colors, built with libghostty-vt.
 - [Trolley](https://github.com/weedonandscott/trolley) - A terminal emulator runtime for distributing cross-platform TUI applications to end users, powered by libghostty.
 - [vanish](https://github.com/psyclyx/vanish) - A lightweight terminal session multiplexer built on libghostty-vt.
 
