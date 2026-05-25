@@ -33,6 +33,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [libghostty-vt-dotnet](https://github.com/deblasis/libghostty-vt-dotnet) - .NET bindings for libghostty-vt to parse VT output, inspect the terminal grid, and build custom renderers.
 - [libghostty-vt-node](https://github.com/coder/libghostty-vt-node) - ABI-stable Node-API bindings for libghostty-vt terminal semantics.
 - [Restty](https://github.com/wiedymi/restty) - A lightweight web terminal library powered by libghostty-vt, WebGPU, and text-shaper, with xterm.js API compatibility.
+- [shade](https://github.com/megalithic/shade) - A neovim-centric Swift library based on libghostty.
 - [Zmx](https://github.com/neurosnap/zmx) - Session persistence for terminal processes, using libghostty-vt for terminal state restore.
 
 ## Terminal Apps & Clients
