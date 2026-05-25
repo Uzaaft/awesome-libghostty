@@ -15,6 +15,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 
 - [flutter_ghostty](https://github.com/jiahaog/flutter_ghostty) - Flutter Embedder for libghostty.
 - [ghosdin](https://github.com/phiat/ghosdin) - Odin bindings for libghostty-vt, with a graphical terminal emulator and embeddable quake-style game console using raylib.
+- [ghosttpy-vt](https://github.com/luckydonald/ghosttpy-vt) - Python bindings for ghostty-vt.
 - [Ghostty](https://github.com/ghostty-org/ghostty) - Reference implementation and home of libghostty.
 - [Ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on the libghostty C API in a single C file, using Raylib for rendering.
 - [ghostty_ex](https://github.com/dannote/ghostty_ex) - Elixir BEAM NIFs for libghostty-vt with OTP integration.
