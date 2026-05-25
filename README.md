@@ -29,6 +29,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [libghostty-ohos](https://github.com/wiedymi/libghostty-ohos) - HarmonyOS HAR library for embedding a Ghostty-powered terminal surface with native rendering, IME, search, and theme support.
 - [libghostty-rs](https://github.com/Uzaaft/libghostty-rs) - Rust FFI bindings and safe API for libghostty-vt, with a Rust port of Ghostling using macroquad.
 - [libghostty-spm](https://github.com/Lakr233/libghostty-spm) - Prebuilt GhosttyKit.xcframework distributed as a Swift Package for easy integration.
+- [libghostty-vaxis](https://github.com/rockorager/libghostty-vaxis) - libghostty integration for the Vaxis Zig TUI library.
 - [libghostty-vt-dotnet](https://github.com/deblasis/libghostty-vt-dotnet) - .NET bindings for libghostty-vt to parse VT output, inspect the terminal grid, and build custom renderers.
 - [libghostty-vt-node](https://github.com/coder/libghostty-vt-node) - ABI-stable Node-API bindings for libghostty-vt terminal semantics.
 - [Restty](https://github.com/wiedymi/restty) - A lightweight web terminal library powered by libghostty-vt, WebGPU, and text-shaper, with xterm.js API compatibility.
