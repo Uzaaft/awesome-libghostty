@@ -72,6 +72,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [RootShell](https://github.com/kitknox/rootshell) - The terminal, reimagined for Apple platforms.
 - [shellbar](https://github.com/rendergraf/shellbar) - A terminal emulator with a configurable command toolbar, built on Ghostty's VT engine for Linux.
 - [Spectty](https://github.com/ocnc/spectty) - A fast native SSH & Mosh terminal for iOS.
+- [tildaz](https://github.com/ensky0/tildaz) - Quake-style drop-down terminal for Windows and macOS, built with Zig and libghostty-vt.
 - [Umbra](https://github.com/charliesbot/umbra) - A high-performance, GPU-accelerated Android terminal powered by libghostty.
 - [VVTerm](https://github.com/vivy-company/vvterm) - A Ghostty-powered SSH client for iOS, iPad, and macOS with iCloud sync and voice-to-command.
 - [Watchtower](https://github.com/markhuot/watchtower) - A stacked terminal emulator with an integrated browser pane.
