@@ -81,6 +81,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 ## Web & Embedded Terminals
 
 - [browstty](https://github.com/Snoupix/browstty) - A Zig WASM module that implements libghostty to emulate a terminal in the browser.
+- [electron-libghostty](https://github.com/philipp-spiess/electron-libghostty) - libghostty embedded inside an Electron shell.
 - [ghostty-web](https://github.com/coder/ghostty-web) - Ghostty for the web with xterm.js API compatibility.
 - [jupyterlab-ghostty-terminal](https://github.com/mvfti/jupyterlab-ghostty-terminal) - A terminal emulator extension for JupyterLab powered by libghostty.
 - [mdnb](https://mdnb.app) - A native macOS markdown editor with git sync + embedded Ghostty terminal.
