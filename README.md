@@ -86,6 +86,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [jupyterlab-ghostty-terminal](https://github.com/mvfti/jupyterlab-ghostty-terminal) - A terminal emulator extension for JupyterLab powered by libghostty.
 - [mdnb](https://mdnb.app) - A native macOS markdown editor with git sync + embedded Ghostty terminal.
 - [obsidian-ghostty-terminal](https://github.com/lavs9/obsidian-ghostty-terminal) - True Ghostty terminal (libghostty-vt WASM) embedded in Obsidian with multi-split support and file-explorer context menu.
+- [onyx-shell](https://github.com/davidmat/onyx-shell) - Embedded terminal plugin for Obsidian powered by Ghostty's VT parser and Canvas renderer.
 - [pynb](https://pynb.app/) - A native macOS Jupyter-compatible Python notebook app with an embedded Ghostty terminal.
 - [RemoteTTYs](https://github.com/finch-xu/RemoteTTYs) - Remote terminal access to your home PC/Mac from a browser using ghostty-web, with a Go agent that requires no open ports or NAT traversal.
 - [vscode-bootty](https://github.com/0xBigBoss/vscode-bootty) - An alternative terminal extension for VS Code powered by libghostty-vt via WebAssembly.
