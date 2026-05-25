@@ -98,6 +98,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [agtmux-term](https://github.com/g960059/agtmux-term) - AI-agent-aware terminal emulator with libghostty and a SwiftUI sidebar.
 - [AiyuTerm](https://github.com/aiyu-ai/AiyuTerm) - Native macOS terminal workspace with multi-repo sidebar, persistent split layouts, SSH, tmux, and real-time AI agent status, powered by Ghostty.
 - [Aizen](https://aizen.win) - Bring order to your projects, environments, and day-to-day work. A macOS workspace for parallel development.
+- [blink](https://github.com/bradjenn/blink) - A modern AI terminal built on libghostty.
 - [cmux](https://github.com/manaflow-ai/cmux) - A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents.
 - [codelima](https://github.com/brianrackle/codelima) - Safely run coding agents in fully isolated local VM sandboxes.
 - [TheCommander](https://thecommander.app/) - A native macOS AI workspace for coding agents with diff review, git workflow, and worktree management.
