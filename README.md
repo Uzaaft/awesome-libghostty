@@ -125,6 +125,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [evp](https://github.com/HalFrgrd/evp) - A terminal recorder powered by libghostty and Rust.
 - [findr](https://github.com/FujiwaraChoki/findr) - A keyboard-driven file manager for macOS with an embedded terminal via libghostty.
 - [hauntty](https://github.com/seruman/hauntty) - Terminal session persistence using Ghostty's VT parser compiled to WASM, written in Go.
+- [headless-terminal](https://github.com/montanaflynn/headless-terminal) - Puppeteer for TUIs (vim/emacs/htop/nethack) with a Go CLI backed by libghostty-vt.
 - [Hot Notes](https://github.com/emadda/hot-notes) - macOS Notes fuzzy search.
 - [NeoShell](https://neoshell.app/) - A shell-first remote workspace on iPad.
 - [OmniWM](https://github.com/BarutSRB/OmniWM) - macOS tiling window manager inspired by Niri and Hyprland, with a Ghostty-powered quake terminal.
