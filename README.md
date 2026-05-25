@@ -24,6 +24,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [go-libghostty](https://github.com/mitchellh/go-libghostty) - Go bindings for libghostty-vt with cgo, static linking by default.
 - [libghostty-cpp](https://github.com/Uzaaft/libghostty-cpp) - C++ bindings for libghostty-vt.
 - [libghostty-dart](https://github.com/elias8/libghostty) - Dart FFI bindings to libghostty-vt for building terminal emulators in Flutter.
+- [libghostty-mbt](https://github.com/mizchi/libghostty-mbt) - MoonBit bindings for libghostty.
 - [libghostty-rs](https://github.com/Uzaaft/libghostty-rs) - Rust FFI bindings and safe API for libghostty-vt, with a Rust port of Ghostling using macroquad.
 - [libghostty-spm](https://github.com/Lakr233/libghostty-spm) - Prebuilt GhosttyKit.xcframework distributed as a Swift Package for easy integration.
 - [Restty](https://github.com/wiedymi/restty) - A lightweight web terminal library powered by libghostty-vt, WebGPU, and text-shaper, with xterm.js API compatibility.
