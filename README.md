@@ -104,6 +104,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [con-terminal](https://github.com/nowledge-co/con-terminal) - The native terminal emulator with a built-in AI harness.
 - [in0](https://github.com/caspianchan31/in0) - A native macOS terminal multiplexer with live AI agent status, built on libghostty + SwiftUI/AppKit.
 - [limpid](https://github.com/nek0der/limpid) - A macOS-native terminal for the AI coding agent era.
+- [moai-studio](https://github.com/modu-ai/moai-studio) - Pure Rust cross-platform agent IDE with GPUI UI, libghostty-vt terminal, SPEC-first development, and integrated MoAI-ADK orchestration.
 - [TheCommander](https://thecommander.app/) - A native macOS AI workspace for coding agents with diff review, git workflow, and worktree management.
 - [Factory Floor](https://github.com/alltuner/factoryfloor) - A native macOS workspace for parallel development with git worktrees, Claude Code agents, and embedded dev servers with automatic port detection.
 - [frep](https://github.com/emmettlu/frep) - An agentic terminal emulator built on libghostty.
