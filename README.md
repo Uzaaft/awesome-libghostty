@@ -122,6 +122,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 
 ## System Integrations & Utilities
 
+- [evp](https://github.com/HalFrgrd/evp) - A terminal recorder powered by libghostty and Rust.
 - [findr](https://github.com/FujiwaraChoki/findr) - A keyboard-driven file manager for macOS with an embedded terminal via libghostty.
 - [hauntty](https://github.com/seruman/hauntty) - Terminal session persistence using Ghostty's VT parser compiled to WASM, written in Go.
 - [Hot Notes](https://github.com/emadda/hot-notes) - macOS Notes fuzzy search.
