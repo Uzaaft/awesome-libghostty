@@ -76,6 +76,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Umbra](https://github.com/charliesbot/umbra) - A high-performance, GPU-accelerated Android terminal powered by libghostty.
 - [VVTerm](https://github.com/vivy-company/vvterm) - A Ghostty-powered SSH client for iOS, iPad, and macOS with iCloud sync and voice-to-command.
 - [Watchtower](https://github.com/markhuot/watchtower) - A stacked terminal emulator with an integrated browser pane.
+- [wispterm](https://github.com/xuzhougeng/wispterm) - A cross-platform terminal workspace for remote development and AI agents, powered by libghostty-vt.
 
 - [ykmx](https://github.com/Yukaii/ykmx) - Yukai's take on a libghostty-based terminal multiplexer.
 ## Web & Embedded Terminals
