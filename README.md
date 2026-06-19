@@ -33,6 +33,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [libghostty-vt-dotnet](https://github.com/deblasis/libghostty-vt-dotnet) - .NET bindings for libghostty-vt to parse VT output, inspect the terminal grid, and build custom renderers.
 - [libghostty-vt-node](https://github.com/coder/libghostty-vt-node) - ABI-stable Node-API bindings for libghostty-vt terminal semantics.
 - [Restty](https://github.com/wiedymi/restty) - A lightweight web terminal library powered by libghostty-vt, WebGPU, and text-shaper, with xterm.js API compatibility.
+- [RoyalTerminal](https://github.com/royalapplications/RoyalTerminal) - High-perf .NET 10 cross-platform libghostty based terminal for Avalonia.
 - [shade](https://github.com/megalithic/shade) - A neovim-centric Swift library based on libghostty.
 - [sshotty-term](https://github.com/sshotty/sshotty-term) - Open-source Flutter terminal library built on Ghostty's VT engine, powering the Sshotty SSH client.
 - [Termini](https://github.com/arach/Termini) - A native terminal surface for SwiftUI apps with libghostty rendering, local PTY, and SSH transports for iOS and macOS.
@@ -70,6 +71,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Quay](https://github.com/babul/quay) - A native macOS connection manager for SSH & SFTP, built on Ghostty's terminal core.
 - [remux](https://github.com/h3nock/remux) - Native iOS tmux client with a mobile-first UI for persistent terminal sessions.
 - [RootShell](https://github.com/kitknox/rootshell) - The terminal, reimagined for Apple platforms.
+- [Royal TS for Windows](https://royalapps.com) - Cross-platform remote management tool supporting a variety of protocols (RDP, VNC, SSH, etc.) using libghostty's VT engine on Windows.
 - [shellbar](https://github.com/rendergraf/shellbar) - A terminal emulator with a configurable command toolbar, built on Ghostty's VT engine for Linux.
 - [Spectty](https://github.com/ocnc/spectty) - A fast native SSH & Mosh terminal for iOS.
 - [tildaz](https://github.com/ensky0/tildaz) - Quake-style drop-down terminal for Windows and macOS, built with Zig and libghostty-vt.
@@ -77,8 +79,8 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [VVTerm](https://github.com/vivy-company/vvterm) - A Ghostty-powered SSH client for iOS, iPad, and macOS with iCloud sync and voice-to-command.
 - [Watchtower](https://github.com/markhuot/watchtower) - A stacked terminal emulator with an integrated browser pane.
 - [wispterm](https://github.com/xuzhougeng/wispterm) - A cross-platform terminal workspace for remote development and AI agents, powered by libghostty-vt.
-
 - [ykmx](https://github.com/Yukaii/ykmx) - Yukai's take on a libghostty-based terminal multiplexer.
+
 ## Web & Embedded Terminals
 
 - [browstty](https://github.com/Snoupix/browstty) - A Zig WASM module that implements libghostty to emulate a terminal in the browser.
