@@ -72,6 +72,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Quay](https://github.com/babul/quay) - A native macOS connection manager for SSH & SFTP, built on Ghostty's terminal core.
 - [remux](https://github.com/h3nock/remux) - Native iOS tmux client with a mobile-first UI for persistent terminal sessions.
 - [RootShell](https://github.com/kitknox/rootshell) - The terminal, reimagined for Apple platforms.
+- [rumsh](https://github.com/karinushka/rumsh) - Roaming UDP mobile shell, using Ghostty VT library for modern terminal features.
 - [shellbar](https://github.com/rendergraf/shellbar) - A terminal emulator with a configurable command toolbar, built on Ghostty's VT engine for Linux.
 - [Spectty](https://github.com/ocnc/spectty) - A fast native SSH & Mosh terminal for iOS.
 - [tildaz](https://github.com/ensky0/tildaz) - Quake-style drop-down terminal for Windows and macOS, built with Zig and libghostty-vt.
