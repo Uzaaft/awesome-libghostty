@@ -48,6 +48,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Dotty](https://github.com/codymullins/dotty) - Terminal emulator built with `.NET` + libghostty.
 - [Echo](https://replay.software/echo) - A fast, modern SSH and Mosh client for iOS and iPadOS powered by Ghostty.
 - [emacs-libgterm](https://github.com/rwc9u/emacs-libgterm) - Terminal emulator for Emacs using libghostty-vt, with ANSI colors, scrollback, and cursor sync via a Zig dynamic module.
+- [Enso](https://github.com/amanfromsolan/enso) - A friendly, native macOS terminal with workspaces, a command palette, and live process icons, built on libghostty and SwiftUI.
 - [fantastty](https://github.com/blaine/fantastty) - A macOS terminal emulator built on Ghostty's libghostty with session workspaces, notes, and live tab previews.
 - [footty](https://github.com/neurosnap/footty) - foot's Wayland UI paired with libghostty's VT rendering.
 - [Forge](https://github.com/rsml/forge) - A native macOS terminal multiplexer built for parallel CLI agents and long-running tasks, powered by libghostty.
