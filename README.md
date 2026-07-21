@@ -13,6 +13,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 
 ## Core & Libraries
 
+- [expo-libghostty](https://github.com/arcboxlabs/expo-libghostty) - Ghostty terminal view for Expo / React Native on iOS and Android, powered by libghostty.
 - [flutter_ghostty](https://github.com/jiahaog/flutter_ghostty) - Flutter Embedder for libghostty.
 - [ghosdin](https://github.com/phiat/ghosdin) - Odin bindings for libghostty-vt, with a graphical terminal emulator and embeddable quake-style game console using raylib.
 - [ghosttpy-vt](https://github.com/luckydonald/ghosttpy-vt) - Python bindings for ghostty-vt.
