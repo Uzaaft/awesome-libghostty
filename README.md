@@ -63,6 +63,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [hollow](https://github.com/sudo-tee/hollow) - Terminal emulator in Zig with a LuaJIT scripting layer and libghostty-vt for VT parsing and rendering.
 - [Husk](https://github.com/dindin12138/Husk) - A lightweight, daemon-based Wayland terminal written in C++ and powered by libghostty.
 - [it-shell3](https://github.com/powdream-org/it-shell3) - Terminal multiplexer with first-class CJK input support, built on libghostty.
+- [justty](https://github.com/0x96f/justty) - A simple native macOS terminal built with Swift and libghostty.
 - [macterm](https://github.com/thdxg/macterm) - A lightweight, native terminal for macOS built with SwiftUI and libghostty.
 - [mightty](https://github.com/frixaco/mightty) - Experimental Windows terminal powered by libghostty.
 - [monstar](https://github.com/rockorager/monstar) - A small Wayland terminal emulator
