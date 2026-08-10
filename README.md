@@ -46,6 +46,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Chuchu](https://github.com/jossephus/chuchu) - A modern, native Android SSH client powered by libghostty 
 - [conterm](https://github.com/mahdiarfrm/conterm) - A modern macOS terminal built on libghostty.
 - [deepin-terminal-ghostty](https://github.com/hualet/deepin-terminal-ghostty) - Deepin Terminal reborn with libghostty.
+- [DeviceTerm](https://github.com/sethdeckard/deviceterm) - A macOS-native terminal that runs live iOS Simulators and mirrored devices as panes beside the shell.
 - [Dotty](https://github.com/codymullins/dotty) - Terminal emulator built with `.NET` + libghostty.
 - [Echo](https://replay.software/echo) - A fast, modern SSH and Mosh client for iOS and iPadOS powered by Ghostty.
 - [emacs-libgterm](https://github.com/rwc9u/emacs-libgterm) - Terminal emulator for Emacs using libghostty-vt, with ANSI colors, scrollback, and cursor sync via a Zig dynamic module.
