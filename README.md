@@ -85,6 +85,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Watchtower](https://github.com/markhuot/watchtower) - A stacked terminal emulator with an integrated browser pane.
 - [wispterm](https://github.com/xuzhougeng/wispterm) - A cross-platform terminal workspace for remote development and AI agents, powered by libghostty-vt.
 - [ykmx](https://github.com/Yukaii/ykmx) - Yukai's take on a libghostty-based terminal multiplexer.
+- [ZenTerm](https://github.com/praxis-labs-io/zen-term) - A macOS terminal for developers with tiled panes, drawers, tool floats, and workspaces, built on [libghostty](https://ghostty.org/).
 
 ## Web & Embedded Terminals
 
