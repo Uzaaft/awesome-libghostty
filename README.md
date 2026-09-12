@@ -122,6 +122,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Mux0](https://github.com/10xChengTu/Mux0) - A native macOS terminal built on libghostty, with workspaces, tabs, and split panes plus live status for Claude Code, OpenCode, and Codex sessions.
 - [Nexion](https://nexion.one) - A native macOS workspace built on libghostty, with saved terminal layouts, a built-in browser, git, and an iPhone companion.
 - [paulatty](https://github.com/lancy/paulatty) - An AI agent team workspace built on libghostty.
+- [PonyMux](https://github.com/heylittlepan/ponymux) - Native macOS terminal built on libghostty for organizing, resuming, and forking Claude Code and Codex sessions.
 - [TheCommander](https://thecommander.app/) - A native macOS AI workspace for coding agents with diff review, git workflow, and worktree management.
 - [Factory Floor](https://github.com/alltuner/factoryfloor) - A native macOS workspace for parallel development with git worktrees, Claude Code agents, and embedded dev servers with automatic port detection.
 - [frep](https://github.com/emmettlu/frep) - An agentic terminal emulator built on libghostty.
