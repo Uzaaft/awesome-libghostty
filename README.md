@@ -45,6 +45,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 
 - [Chuchu](https://github.com/jossephus/chuchu) - A modern, native Android SSH client powered by libghostty 
 - [conterm](https://github.com/mahdiarfrm/conterm) - A modern macOS terminal built on libghostty.
+
 - [deepin-terminal-ghostty](https://github.com/hualet/deepin-terminal-ghostty) - Deepin Terminal reborn with libghostty.
 - [DeviceTerm](https://github.com/sethdeckard/deviceterm) - A macOS-native terminal that runs live iOS Simulators and mirrored devices as panes beside the shell.
 - [Dotty](https://github.com/codymullins/dotty) - Terminal emulator built with `.NET` + libghostty.
@@ -65,6 +66,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Husk](https://github.com/dindin12138/Husk) - A lightweight, daemon-based Wayland terminal written in C++ and powered by libghostty.
 - [it-shell3](https://github.com/powdream-org/it-shell3) - Terminal multiplexer with first-class CJK input support, built on libghostty.
 - [justty](https://github.com/0x96f/justty) - A simple native macOS terminal built with Swift and libghostty.
+- [Kuu](https://github.com/tretten/kuu) - A free, MIT-licensed native macOS terminal built on libghostty, with tabs, Ghostty themes, and signed builds with auto-updates.
 - [macterm](https://github.com/thdxg/macterm) - A lightweight, native terminal for macOS built with SwiftUI and libghostty.
 - [mightty](https://github.com/frixaco/mightty) - Experimental Windows terminal powered by libghostty.
 - [monstar](https://github.com/rockorager/monstar) - A small Wayland terminal emulator
