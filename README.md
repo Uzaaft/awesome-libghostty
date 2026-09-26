@@ -43,6 +43,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 
 ## Terminal Apps & Clients
 
+- [Aster](https://github.com/rambocode/aster) - A native AppKit macOS terminal workspace built on GhosttyKit, with recursive splits, file browsing, and previews.
 - [Chuchu](https://github.com/jossephus/chuchu) - A modern, native Android SSH client powered by libghostty 
 - [conterm](https://github.com/mahdiarfrm/conterm) - A modern macOS terminal built on libghostty.
 - [deepin-terminal-ghostty](https://github.com/hualet/deepin-terminal-ghostty) - Deepin Terminal reborn with libghostty.
