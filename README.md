@@ -122,6 +122,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Forjara](https://github.com/lludlow/Forjara) - Multi-agent coding workspaces on your tailnet with a libghostty-powered web terminal.
 - [GraphCode](https://github.com/scgopi/GraphCode) - A native macOS app that wires libghostty-backed agent sessions into a graph, with hand-off, message, and spawn edges that fire unattended.
 - [in0](https://github.com/caspianchan31/in0) - A native macOS terminal multiplexer with live AI agent status, built on libghostty + SwiftUI/AppKit.
+- [JustSessions](https://github.com/yangzichao/JustSessions) - Native macOS workspace for Claude Code, Codex, and other coding agents, with an optional libghostty terminal via libghostty-spm.
 - [limpid](https://github.com/nek0der/limpid) - A macOS-native terminal for the AI coding agent era.
 - [moai-studio](https://github.com/modu-ai/moai-studio) - Pure Rust cross-platform agent IDE with GPUI UI, libghostty-vt terminal, SPEC-first development, and integrated MoAI-ADK orchestration.
 - [moss](https://github.com/stickmy/moss) - A macOS terminal workspace for orchestrating AI coding agents with multi-terminal canvas, agent status tracking, and file preview.
