@@ -117,6 +117,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [blink](https://github.com/bradjenn/blink) - A modern AI terminal built on libghostty.
 - [Bosun](https://github.com/pilothouse/bosun) - A native macOS workbench for GitHub and coding agents, with SSH and local connections, an issue/PR pane, and a Metal-rendered libghostty terminal.
 - [Calyx](https://github.com/yuuichieguchi/Calyx) - A native macOS terminal for supervising coding agents in parallel.
+- [ClaudeTTY](https://github.com/aqilc/ClaudeTTY) - A native macOS terminal for running lots of Claude Code at once, where every tab keeps running in zmx after the app quits.
 - [cmux](https://github.com/manaflow-ai/cmux) - A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents.
 - [codelima](https://github.com/brianrackle/codelima) - Safely run coding agents in fully isolated local VM sandboxes.
 - [con-terminal](https://github.com/nowledge-co/con-terminal) - The native terminal emulator with a built-in AI harness.
