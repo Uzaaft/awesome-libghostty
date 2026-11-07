@@ -140,6 +140,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Supacode](https://github.com/supabitapp/supacode) - An open-source native macOS command center for running coding agents in parallel, powered by libghostty.
 - [taskers](https://github.com/OneNoted/taskers) - An agent-first terminal workspace app with a Rust shell, flexible terminal backend, and Niri-like tiling model.
 - [termscope](https://github.com/mwunsch/termscope) - Headless terminal emulator CLI powered by libghostty-vt.
+- [Termside](https://termside.com) - A native macOS command center for AI coding agents and terminals, with a project sidebar, persistent sessions, and completion alerts, built on libghostty.
 - [tuidoscope](https://github.com/shuv1337/tuidoscope) - A terminal multiplexer for TUI apps with tab sidebar, fuzzy command palette, session persistence, and vim-style navigation, built with OpenTUI, SolidJS, and libghostty.
 - [Vertty](https://github.com/SunRunAway/vertty) - A native macOS terminal for agents with project-based tabs, iOS remote access, and scheduled tasks, built on libghostty.
 - [witty](https://github.com/milesxu/witty) - AI-powered terminal emulator built with Python, Qt6, and Rust.
