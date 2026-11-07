@@ -154,6 +154,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [headless-terminal](https://github.com/montanaflynn/headless-terminal) - Puppeteer for TUIs (vim/emacs/htop/nethack) with a Go CLI backed by libghostty-vt.
 - [Hot Notes](https://github.com/emadda/hot-notes) - macOS Notes fuzzy search.
 - [NeoShell](https://neoshell.app/) - A shell-first remote workspace on iPad.
+- [Nixbit](https://github.com/pbek/nixbit) - A Qt GUI for updating NixOS systems from a Nix Flakes Git repository, with an optional libghostty-powered embedded terminal via Kwi.
 - [OmniWM](https://github.com/BarutSRB/OmniWM) - macOS tiling window manager inspired by Niri and Hyprland, with a Ghostty-powered quake terminal.
 - [OrbStack](https://orbstack.dev/) - Fast, lightweight Docker & Linux on macOS, with a built-in Ghostty-powered terminal.
 - [reed](https://github.com/pastel-sketchbook/reed) - Terminal file viewer with syntax highlighting, inline images, and Mermaid diagrams, powered by libghostty-vt.
