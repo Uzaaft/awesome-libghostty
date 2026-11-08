@@ -121,6 +121,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [cmux](https://github.com/manaflow-ai/cmux) - A Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents.
 - [codelima](https://github.com/brianrackle/codelima) - Safely run coding agents in fully isolated local VM sandboxes.
 - [con-terminal](https://github.com/nowledge-co/con-terminal) - The native terminal emulator with a built-in AI harness.
+- [Devkitty terminal](https://devkitty.app) - A cosy native macOS terminal built on libghostty, with your repos, pull requests, worktrees and AI agents in one window.
 - [Farol](https://github.com/snowztech/farol) - A native macOS terminal for coding agents with live agent status, git worktree sessions, and a review panel, built on libghostty.
 - [Forjara](https://github.com/lludlow/Forjara) - Multi-agent coding workspaces on your tailnet with a libghostty-powered web terminal.
 - [GraphCode](https://github.com/scgopi/GraphCode) - A native macOS app that wires libghostty-backed agent sessions into a graph, with hand-off, message, and spawn edges that fire unattended.
