@@ -82,6 +82,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [shellbar](https://github.com/rendergraf/shellbar) - A terminal emulator with a configurable command toolbar, built on Ghostty's VT engine for Linux.
 - [shellwing](https://github.com/hivepaas/shellwing) - A native SSH client for macOS, Windows and Linux in Rust and GPUI, with tabs, split panes, SFTP and an encrypted vault that syncs.
 - [Slate Terminal](https://github.com/AlexW00/slate-term) - A native macOS terminal powered by libghostty, with browser panes, custom HTML/CSS/JavaScript plugin panels, and a workspace control CLI.
+- [Snow Ghostty](https://github.com/EriksRemess/snow-ghostty) - A native, GPU-accelerated terminal for Mac OS X Snow Leopard.
 - [Spectty](https://github.com/ocnc/spectty) - A fast native SSH & Mosh terminal for iOS.
 - [TildaZ](https://github.com/ensky0/tildaz) - Quake-style drop-down terminal for Linux, macOS, and Windows, built with Zig and libghostty-vt.
 - [Umbra](https://github.com/charliesbot/umbra) - A high-performance, GPU-accelerated Android terminal powered by libghostty.
