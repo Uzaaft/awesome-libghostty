@@ -44,6 +44,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 ## Terminal Apps & Clients
 
 - [Aster](https://github.com/rambocode/aster) - A native AppKit macOS terminal workspace built on GhosttyKit, with recursive splits, file browsing, and previews.
+- [bs](https://github.com/jrgp/better-screen) - Better Screen, a minimal terminal multiplexer for common workflows, powered by libghostty.
 - [btmux](https://github.com/buntec/btmux) - A cross-platform terminal emulator and tmux-style session manager, powered by libghostty.
 - [Chuchu](https://github.com/jossephus/chuchu) - A modern, native Android SSH client powered by libghostty 
 - [conterm](https://github.com/mahdiarfrm/conterm) - A modern macOS terminal built on libghostty.
