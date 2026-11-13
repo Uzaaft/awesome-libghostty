@@ -70,6 +70,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Kwi](https://invent.kde.org/utilities/kwi) - KDE's frontend, providing a terminal app and embeddable components for KDE/Qt apps.
 - [macterm](https://github.com/thdxg/macterm) - A lightweight, native terminal for macOS built with SwiftUI and libghostty.
 - [mightty](https://github.com/frixaco/mightty) - Experimental Windows terminal powered by libghostty.
+- [Mons](https://mons.cc) - A proprietary iPhone and iPad terminal built with GhosttyKit for continuing coding-agent sessions on a Mac/Linux host.
 - [monstar](https://github.com/rockorager/monstar) - A small Wayland terminal emulator
 - [Mori](https://github.com/vaayne/mori) - A native macOS workspace terminal organized around projects and worktrees, powered by tmux and libghostty.
 - [Muxy](https://github.com/muxy-app/muxy) - A macOS terminal multiplexer built with SwiftUI and libghostty.
