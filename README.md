@@ -86,6 +86,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [Slate Terminal](https://github.com/AlexW00/slate-term) - A native macOS terminal powered by libghostty, with browser panes, custom HTML/CSS/JavaScript plugin panels, and a workspace control CLI.
 - [Snow Ghostty](https://github.com/EriksRemess/snow-ghostty) - A native, GPU-accelerated terminal for Mac OS X Snow Leopard.
 - [Spectty](https://github.com/ocnc/spectty) - A fast native SSH & Mosh terminal for iOS.
+- [SSHL](https://github.com/qfdk/sshl) - A native SSH client for macOS in Rust and GPUI, with a terminal, an SFTP file manager that follows the terminal's directory and a server monitor in one window.
 - [TildaZ](https://github.com/ensky0/tildaz) - Quake-style drop-down terminal for Linux, macOS, and Windows, built with Zig and libghostty-vt.
 - [Umbra](https://github.com/charliesbot/umbra) - A high-performance, GPU-accelerated Android terminal powered by libghostty.
 - [VVTerm](https://github.com/vivy-company/vvterm) - A Ghostty-powered SSH client for iOS, iPad, and macOS with iCloud sync and voice-to-command.
