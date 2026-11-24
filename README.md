@@ -138,6 +138,7 @@ A curated list of awesome projects, tools, and resources built with or for libgh
 - [moss](https://github.com/stickmy/moss) - A macOS terminal workspace for orchestrating AI coding agents with multi-terminal canvas, agent status tracking, and file preview.
 - [Mux0](https://github.com/10xChengTu/Mux0) - A native macOS terminal built on libghostty, with workspaces, tabs, and split panes plus live status for Claude Code, OpenCode, and Codex sessions.
 - [Nexion](https://nexion.one) - A native macOS workspace built on libghostty, with saved terminal layouts, a built-in browser, git, and an iPhone companion.
+- [Paneflow](https://github.com/arthjean/paneflow) - The modern multiplexer, built for you and for the agents that work with you.
 - [paulatty](https://github.com/lancy/paulatty) - An AI agent team workspace built on libghostty.
 - [PonyMux](https://github.com/heylittlepan/ponymux) - Native macOS terminal for organizing, resuming, and forking Claude Code and Codex sessions.
 - [TheCommander](https://thecommander.app/) - A native macOS AI workspace for coding agents with diff review, git workflow, and worktree management.
